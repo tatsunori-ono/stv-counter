@@ -4,10 +4,10 @@ STV counter with dynamic input edit & recount. Deployed so that anyone can use i
 ## Demo
 
 ### Election Setup
-![Election Setup](sample-screenshots/election-setup.png)
+![Election Setup](election-setup.png)
 
 ### Ballot Entry
-![Ballot Papers](sample-screenshots/ballot-papers.png)
+![Ballot Papers](ballot-papers.png)
 
 ### Election Results
-![Election Results](sample-screenshots/election-results.png)
+![Election Results](election-results.png)
