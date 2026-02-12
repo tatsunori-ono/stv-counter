@@ -1,5 +1,5 @@
 # single-transferable-vote-counter
-STV counter with dynamic input edit & recount. Deployed so that anyone can use it on the website!
+STV counter with dynamic input edit & recount. Deployed so that anyone can use it on the website! <br />
 IMPORTANT: Make sure to do +1 to the number of candidates if you have R.O.N (Re-Open Nominations)
 
 ## Demo
